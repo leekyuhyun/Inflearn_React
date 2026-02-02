@@ -21,7 +21,7 @@
 
 ## ⏰ 제출 마감 및 기준
 
-- 제출 기한 마감은 **매주 월요일 오후 11시 59분까지**이며, 마감 기한을 지키지 않을 경우 그 주 과제는 제출하지 않은 것으로 한다.
+- 제출 기한 마감은 **매주 목요일 오후 11시 59분까지**이며, 마감 기한을 지키지 않을 경우 그 주 과제는 제출하지 않은 것으로 한다.
   - 특별한 사유가 있을시 예외
 - 과제를 제출하지 않았더라고 개인적으로 진행 후 Pull Request를 보낼 수 있으며, 리뷰가 진행되지 않을 수도 있다.
 
@@ -66,3 +66,4 @@ root/
 | 이규현 | [@leekyuhyun](https://github.com/leekyuhyun) |
 | 김선빈 | [@toran1678](https://github.com/toran1678)   |
 | 정현구 | [@lhjjhg](https://github.com/lhjjhg)         |
+| 김민한 | [@minari0v0](https://github.com/minari0v0)
