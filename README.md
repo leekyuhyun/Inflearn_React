@@ -51,7 +51,7 @@ root/
 | 　　 　이름<br>목차　        | [김선빈](https://github.com/toran1678) | [이규현](https://github.com/leekyuhyun) | [정현구](https://github.com/lhjjhg) | [김민한](https://github.com/minari0v0)
 | :- | :- | :- | :- | :- |
 | JavaScript 기본              | ✅ | ✅ | ✅ | ✅ |
-| JavaScript 심화              |  |  |  |  |
+| JavaScript 심화              | ✅ | ✅ | ✅ | ✅ |
 | Node.js 기초 & React.js 개론 |  |  |  |  |
 | React 입문                   |  |  |  |  |
 | 프로젝트 1 & 라이프사이클    |  |  |  |  |
