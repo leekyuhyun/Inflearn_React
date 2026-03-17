@@ -55,7 +55,7 @@ root/
 | Node.js 기초 & React.js 개론 | ✅ | ✅ | ✅ | ✅ |
 | React 입문                   | ✅ | ✅ | ✅ | ✅ |
 | 프로젝트 1 & 라이프사이클 & 프로젝트 2 | ✅ | ✅ | ✅ | ✅ |
-| useReducer & 최적화 & Context      |  |  |  |  |
+| useReducer & 최적화 & Context | ✅ | ✅ | ✅ | ✅ |
 | 프로젝트 3                   |  |  |  |  |
 
 ## 👥 스터디원 정보
