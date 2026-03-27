@@ -1,0 +1,63 @@
+.EmotionItem {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 12px; /* 조금 더 둥글게 */
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s ease-in-out; /* 부드러운 전환 효과 */
+    border: 1px solid transparent;
+}
+
+.EmotionItem:hover {
+    transform: translateY(-3px); /* 마우스 올렸을 때 살짝 뜨는 효과 */
+}
+
+.EmotionItem .emotion_img {
+    width: 60%;
+    margin-bottom: 8px;
+}
+
+.EmotionItem span {
+    font-size: 16px;
+    display: block;
+    color: #555;
+}
+
+/* 감정별 활성화 색상 (파스텔 톤) */
+.EmotionItem_on_1 {
+    color: white !important;
+    background-color: #95d5a2;
+    border-color: #7abf88;
+}
+
+.EmotionItem_on_2 {
+    color: white !important;
+    background-color: #bce29e;
+    border-color: #a4cc86;
+}
+
+.EmotionItem_on_3 {
+    color: white !important;
+    background-color: #fbe192;
+    border-color: #e4c87a;
+}
+
+.EmotionItem_on_4 {
+    color: white !important;
+    background-color: #ffb7b0;
+    border-color: #e8a098;
+}
+
+.EmotionItem_on_5 {
+    color: white !important;
+    background-color: #ff8f92;
+    border-color: #e87a7d;
+}
+
+.EmotionItem_on_1 span,
+.EmotionItem_on_2 span,
+.EmotionItem_on_3 span,
+.EmotionItem_on_4 span,
+.EmotionItem_on_5 span {
+    color: white;
+}
