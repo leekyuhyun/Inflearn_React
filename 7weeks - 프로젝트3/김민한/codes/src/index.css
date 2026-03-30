@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "NanumPenScript";
+    src: url("/NanumPenScript-Regular.ttf");
+}
+
+@font-face {
+    font-family: "OwnglyphKonkon";
+    src: url("/온글잎 콘콘체.ttf");
+}
+
+html,
+body {
+    margin: 0px;
+    width: 100%;
+    /* 배경을 조금 더 따뜻한 미색으로 변경 */
+    background-color: #fefaf2;
+    display: flex;
+}
+
+#root {
+    /* 종이 느낌의 배경색 */
+    background-color: #fff;
+    max-width: 500px; /* 조금 더 일기장처럼 좁게 조정 */
+    width: 100%;
+    margin: 30px auto; /* 상단 여백 추가 */
+    min-height: 90vh;
+    border-radius: 15px; /* 모서리를 둥글게 */
+    box-shadow: rgba(149, 157, 165, 0.1) 0px 8px 24px;
+    padding: 0px 30px;
+    
+    /* 전체 메인 폰트 설정 */
+    font-family: "OwnglyphKonkon", "NanumPenScript", sans-serif;
+}
+
+body * {
+    /* 전체적으로 온글잎 콘콘체 적용 */
+    font-family: inherit;
+}
+
+/* 일기 본문 등 포인트가 필요한 곳에 나눔펜스크립트 적용을 위한 클래스 */
+.diary_font {
+    font-family: "NanumPenScript" !important;
+}

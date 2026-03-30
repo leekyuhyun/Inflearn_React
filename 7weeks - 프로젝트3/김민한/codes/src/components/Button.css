@@ -1,0 +1,35 @@
+.Button {
+    background-color: #f7f7f7;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px; /* 조금 더 부드럽게 */
+    padding: 10px 20px;
+    font-size: 16px;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+    font-weight: 500;
+}
+
+.Button:hover {
+    background-color: #efefef;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.Button_POSITIVE {
+    background-color: #95d5a2;
+    color: white;
+}
+
+.Button_POSITIVE:hover {
+    background-color: #7abf88;
+}
+
+.Button_NEGATIVE {
+    background-color: #ff8f92;
+    color: white;
+}
+
+.Button_NEGATIVE:hover {
+    background-color: #e87a7d;
+}
